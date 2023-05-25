@@ -10,10 +10,11 @@
     {
       "css": ["style.css"],
       "js": ["action.js"],
-      "matches": ["*//*.linkedin.com.*/*"],
+      "matches": ["*://*.linkedin.com/*"],
       "run_at": "document_end"
     }
   ],
+  
   "host_permissions": ["https://*/store*"],
   "background": {
     "service_worker": "background.js"
