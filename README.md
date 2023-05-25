@@ -35,8 +35,6 @@ Not yet available but feel free to clone this!
 
 ## Installation 
 
-## Project Installation
-
 If you have downloaded this project as a ZIP file from my GitHub page, follow the steps below to install it:
 
 1. Save the downloaded ZIP file to your desired folder location.
