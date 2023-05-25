@@ -17,6 +17,8 @@ DISCLAIMER: The development of this extension does not imply my opinion on the f
 ## Concepts and Libraries Studied
 
 - Chrome extension
+- DOM manipulation 
+- Inspired by https://chrome.google.com/webstore/detail/feed-blocker-for-linkedin/eikaafmldiioljlilngpogcepiedpenf
 
 ## Preview
 ![image](https://github.com/Kcrosas/UnlinkedIn/assets/90270082/c5c02df1-1614-43ae-b106-ea056af266fa)
